@@ -1,9 +1,3 @@
-/*******
-
-  All the resources for this project:
-  https://www.hackster.io/Aritro
-
-*******/
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <PubSubClient.h>
